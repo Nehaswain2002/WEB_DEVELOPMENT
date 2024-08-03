@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+</head>
+<body>
+    <H1>input type</H1>
+    <form action="#" method="post">
+        <fieldset>
+            <legend>Student Registration form</legend>
+            <label for="username">username :</label>
+            <input type="text"id="username"name="username"required placeholder="Enter username"/><br>
+            <label for="username">username :</label>
+            <input type="text"id="Email"name="Email"required placeholder="Enter your Email"/><br>
+            <label for="password">password :</label>
+            <input type="text"id="password"name="password"required placeholder="Enter your password"/><br>
+<label for="country">country :</label>
+<select name="country" id="country">
+    <option value="">Select country</option>
+    <option value="India">India</option>
+    <option value="USA">USA</option>
+    <option value="Canada">Canada</option>
+    <br>
+    <label for="gender">Gender</label>
+    <input type="radio" name="gender" id="Male" value="Male"/>
+    <label for="Male">Male</label>
+    <input type="radio" name="gender" id="Female" value="Female"/>
+    <label for="female">Female</label>
+    <br>
+    <label for="date">DOB:</label>
+    <input type="date" value="2002-08-31" id="date"/>
+    <br>
+    <fieldset>
+        <legend>Student Address</legend>
+        <label for="address">Address:</label>
+          <textarea name="address" id="address" cols="30" rows="5"></textarea>
+    </fieldset>
+    <br>
+    <label for="file">Upload your cv:</label>
+    <input type="file" id="file" />
+    <br />
+    <br />
+
+    <input type="submit" value="Submit" />
+</select>
+        </fieldset>
+    </form>
+
+</body>
+</html>
