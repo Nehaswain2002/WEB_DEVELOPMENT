@@ -1,0 +1,23 @@
+*{
+   background-color: rgb(199, 122, 21); 
+   color: azure;
+}
+#heading {
+    background-color: blue;
+    color:red ;
+}
+#sub_heading {
+    color: chartreuse;
+  }
+  #img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  .paragraph {
+    background-color: cadetblue;
+    color: crimson;
+  }
+  h1,h2{
+    background-color: blueviolet;
+  }
