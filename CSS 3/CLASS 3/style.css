@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    background-color: aqua;
+}
+.heading{
+  font-size:35px;  
+
+}
+.para{
+    font-size: 0.2in;
+    line-height: 25px;
+}
+.paragraph{
+    font-size: 1rem;
+}
+.container{
+    border: 2px solid red;
+    max-width: 800px;
+    width: 50%;
+    width: 70vw;
+    line-height: 30px;
+    min-width: 50vw;
+}

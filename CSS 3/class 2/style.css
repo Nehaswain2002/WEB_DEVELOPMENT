@@ -33,6 +33,7 @@ font-family:Georgia, 'Times New Roman', Times, serif ;
 .class1{
     font-style: italic;
     color: rgb(59, 12, 211);
+    text-decoration: line-through;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -70,3 +71,12 @@ font-family:Georgia, 'Times New Roman', Times, serif ;
     margin: 50px 100px 50px 100px;
 
 }
+.para1{
+    font-family: "Grey Qo", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .para1:nth-child(2){
+    background-color: rgb(247, 28, 195);
+  }
+  
