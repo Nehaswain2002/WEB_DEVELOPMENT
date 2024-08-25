@@ -6,13 +6,14 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.main_table{
+/* .main_table{
     display: grid;
-    flex-wrap: nowrap;
-}
-u{
+    /* flex-wrap: nowrap; */
+} */
+ul{
     font-size: 40px;
     font-family: cursive;
+    text-shadow: text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
 h5{
     font-size: 10px;
@@ -42,7 +43,7 @@ body{
     grid-template-rows: repeat(1,50px);
     gap: 8px;
     justify-content: space-between;
-    box-shadow: 1,5,2;
+    box-shadow: 3,5,2;
 
 }                           
 
@@ -153,8 +154,4 @@ body{
     background-color: red;
 }
  
- /* span{
-    color: rgb(20, 247, 220);
-    font-size: 40px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
- } */
+ 

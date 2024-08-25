@@ -20,9 +20,10 @@
   
   .box {
     border: 5px solid;
-    width: 470px;
+    width: 380px;
     margin: 0 auto;
-    /* box-shadow: -10px 10px 5px gray; */
+   
+    box-shadow: 10px 10px 5px 12px gray;
     /* box-shadow: rgba(240, 46, 170, 0.4) -5px 5px,
       rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px,
       rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px; */
@@ -40,25 +41,24 @@
   }
   
   .box:hover {
-    cursor: pointer;
-    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px,
-      rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px,
-      rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px ;
     /* transform: scale(1.5); */
-    /* transform: rotate(180deg); */
-    /* transform: skew(30deg, 20deg); */
-    transform: translate(300px, 500px);
+    /* transform: rotate(180deg);
+    transform: skew(30deg, 20deg);
+    transform: translate(300px, 500px); */
   }
   
   p {
     font-size: 30px;
+    
   }
   
   p::first-letter {
     text-transform: uppercase;
     font-weight: bold;
-    font-size: 60px;
+    font-size: 40px;
   }
+
   /* p::first-line {
     text-transform: uppercase;
     font-weight: bold;
@@ -68,7 +68,7 @@
   p::before {
     content: "🔥";
   }
-  
+ 
   .typography span {
     text-align: center;
     font-size: 50px;
@@ -91,7 +91,7 @@
       color: red;
       /* transform: translateX(150px); */
       transform: rotateX(45deg);
-      font-size: 3em;
+      font-size: 3em;8
     }
   
     100% {
@@ -102,7 +102,7 @@
     }
   }
   
-  .typography span:nth-child(1) {
+  /* .typography span:nth-child(1) {
     animation-delay: 0s;
   }
   .typography span:nth-child(2) {
@@ -123,8 +123,8 @@
   .typography span:nth-child(7) {
     animation-delay: 12s;
   }
-  
-  @keyframes fadin {
+   */
+  /* @keyframes fadin {
     0% {
       opacity: 0;
       transform: translateX(20px);
@@ -133,4 +133,4 @@
       opacity: 1;
       transform: translateX(0);
     }
-  }
+  } */
