@@ -1,10 +1,10 @@
 "use strict";
 
 // console.log(name);
-// var name = "Pramod";
+// var name = "Neha";
 
 let name; // Decalration  of variable
-name = "Pramod"; // Initialization
+name = "NEHA"; // Initialization
 // console.log(name); // undefined
 
 // Null :
@@ -191,7 +191,7 @@ let name_string = "Pablo";
 // length: 5
 // Start-index: 0
 // Last-Index = 5 - 1 = 4
-console.log(name_string.length); // 5
+console.log(name_string.length);// 5
 console.log(`Last index: ${name_string.length - 1}`); // Last index: 4
 console.log(name_string[2]); // b
 console.log(name_string[4]); // o
@@ -213,4 +213,7 @@ console.log(mail.includes("@yahoo")); // false
 
 const company_name = new String("WeCode");
 console.log(company_name); // [String: 'WeCode']
+
+let converted_score = Number(score);
+console.log(typeof converted_score);
  
