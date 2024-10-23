@@ -48,15 +48,16 @@
 // var, let, const are used to declare a variable in javascript.
 // Syntax :
 
-var myAge;
-let age;
-const HisAge = 25;
+// var myAge;
+// let age;
+// const HisAge = 25;
 
 //Q2. Declare a variable and assign some value.
-var name1 = "Pramod";
-let name2 = "Abc";
-const name3 = "Xyz";
+// var name1 = "Pramod";
+// let name2 = "Abc";
+// const name3 = "Xyz";
 
 // How to print the output in javascript.
 // console.log() is used to print the output in javascript.
-console.log(HisAge); // 25
+// console.log(HisAge); // 25
+console.log("mhjk");

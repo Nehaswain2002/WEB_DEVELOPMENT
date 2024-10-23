@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    width: 600px;
+    height: 650px;
+    border: 5px solid;
+    margin: auto;
+    text-align: center;
+    box-shadow: 5px 5px 10px;
+  }
+  
+  .image_container img {
+    width: 500px;
+    height: 500px;
+  }
+  
+  #meme-btn {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    background-color: chartreuse;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 10px;
+  }
+  
+  #meme-btn:hover {
+    background-color: #00ff00;
+    cursor: pointer;
+  }

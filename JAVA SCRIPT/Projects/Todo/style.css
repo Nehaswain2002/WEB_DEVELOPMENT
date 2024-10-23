@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background: #212121;
+    color: #fff;
+  }
+  .heading {
+    text-align: center;
+  }
+  .container {
+    border: 1px solid white;
+    width: 700px;
+    margin: auto;
+  }
+  
+  .add_todo input {
+    padding: 10px 50px;
+    font-size: 18px;
+  }
+  .add_todo button {
+    padding: 10px 25px;
+    font-size: 18px;
+  }
+  #todo_list .items {
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+  }
+  #todo_list .remove_button {
+    background-color: red;
+    color: white;
+    font-size: 18px;
+  }
