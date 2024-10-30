@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: pink;
+    font-size: 16px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.nav
+{
+    display: flex;
+    /* border: 2px solid black; */
+    height: 90px;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    
+}
+.logo img{
+    height: 40px;
+}
+.list-items ul{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    gap: 20px;
+ font-size: larger;
+ font-weight: bold;
+ border-bottom: red;
+ margin-right: 20px;
+
+}
+.list-items li a{
+    text-decoration: none;
+}
+.list-items li a:hover{
+    border-bottom:  5px solid red;
+    cursor: pointer;
+}  
