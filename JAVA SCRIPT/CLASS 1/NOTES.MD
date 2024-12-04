@@ -8,7 +8,7 @@ Javascript Notes :
 // Arithmatic Operator :
 (+): Addition ex: 2+3 = 5
 (-): Subtraction ex: 5-2 = 3
-(): Multiplication ex: 52 = 10
+(*): Multiplication ex: 52 = 10
 (/): Division ex: 10/2 = 5
 (%): Modulus ex: 7%3 = 1
 (* *): Exponent ex: 2**3 = 8
@@ -40,7 +40,7 @@ Conditional Operator (?:)
 To check the data type(typeof)
 // Data types in JS :
 A. Primitive Data-Types : These are the basic data types provided by a programming language. They are predefined by the language and built into its syntax. Primitive data types are not composed of other data types and are stored directly in memory. They represent simple values and have a fixed size. Examples include integers, floating-point numbers, characters, booleans, and symbols (if supported by the language). Primitive data types are typically immutable, meaning their values cannot be changed after they are created.
-
+NNBBSSU
 1. null
 2. undefined
 3. boolean (true or false)

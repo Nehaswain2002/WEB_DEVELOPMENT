@@ -6,7 +6,7 @@ const decimal = 12.012054;
 
 // ----------------------- Math -----------------------
 // Math :
-// console.log(Math);
+// console.log(Math);`
 // Math.PI : 3.141592653589793
 // console.log(Math.PI);
 // Math.abs() : absolute value

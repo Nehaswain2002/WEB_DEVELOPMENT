@@ -1,0 +1,14 @@
+
+footer{
+    background-color: black;
+    color: white;
+}
+.container{
+    margin-left:45px;
+    display: flex;
+
+}
+ img1{ 
+    height: 22px;
+    width: 32px;
+}

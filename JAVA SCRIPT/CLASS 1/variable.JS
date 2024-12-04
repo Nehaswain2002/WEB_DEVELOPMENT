@@ -31,10 +31,10 @@
 // Javascript is case-sensitive.(a !== A)
 // You can't use a keyword as a variable name.
 
-// Camel Case :
+// Camel Case : 
 // It is a naming convention where the first word is in lower case and the first letter of the
 // subsequent words are in upper case.
-// Example : myVariableName, myFunctionName.
+// Example : myVariableName, myFunctionName. 
 
 // Pascal Case :
 // It is a naming convention where the first letter of each word is in upper case.
@@ -60,4 +60,14 @@
 // How to print the output in javascript.
 // console.log() is used to print the output in javascript.
 // console.log(HisAge); // 25
-console.log("mhjk");
+//console.log("mhjk");
+// var name="Neha";
+// console.log(name);
+// var name="Neha";
+// let num=7.8;
+// console.log(typeof num);
+
+let a=2;
+let b=5;
+let c=a+b;
+console.log(c);

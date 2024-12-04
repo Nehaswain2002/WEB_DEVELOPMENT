@@ -1,4 +1,4 @@
-"use strict";
+ "use strict";
 // use strict : To enable strict mode in JavaScript, you can use the use strict directive. This directive can be placed at the top of a script or function to opt-in to strict mode.
 
 // Conversion :

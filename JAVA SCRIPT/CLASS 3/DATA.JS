@@ -116,7 +116,7 @@ let symbol2 = Symbol("abc");
 // a number. It is used to represent the result of a mathematical operation that cannot be
 // performed.
 
-let num3 = 10 / 0;
+let num3 = 10 / 0; 
 // console.log(num3); // NaN / Infinity
 
 // Boolean :
@@ -154,7 +154,7 @@ let str4 = new String("Hello, World!");
 // console.log(str4);
 
 // My Details :
-// Name : Pramod
+// Name : Neha
 // Age : 25
 // Address : Bangalore
 // Contact : 1234567890
@@ -175,7 +175,7 @@ console.log(
   `My name is ${name}, my age is ${age}, my address is ${address} and my contact no is ${contact}`
 );
 
-// My name is Neha, my age is 25, my address is Bangalore and my contact no is 1234567890
+// My name is Neha, my age is 23, my address is Bangalore and my contact no is 1234567890
 
 // Fun fact :
 let score1 = "100";

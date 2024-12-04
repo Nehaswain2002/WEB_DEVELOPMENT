@@ -35,7 +35,7 @@
 
  // Step-1
  const randomNumber = Math.random();
- console.log(randomNumber);
+//  console.log(randomNumber);
  // Step-2
  let start = 1;
  let end = 5;
@@ -43,5 +43,5 @@
  // const random = Math.floor(randomNumber * (end - start + 1)) + start;
  // Step-4
  for (let i = 0; i < 5; i++) {
-   console.log(Math.floor(Math.random() * (end - start + 1)) + start); // randomly 1 to 5
+  //  console.log(Math.floor(Math.random() * (end - start + 1)) + start); // randomly 1 to 5
  }
