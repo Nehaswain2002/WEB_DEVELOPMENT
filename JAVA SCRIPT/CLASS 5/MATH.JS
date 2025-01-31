@@ -1,6 +1,6 @@
 // Nums and Mathematics :
 
-const decimal = 12.012054;
+// const decimal = 12.012054;
 // console.log(decimal.toPrecision(5)); // 12.012
 // console.log(decimal.toLocaleString("en-IN")); // 12.012
 
@@ -38,4 +38,6 @@ const decimal = 12.012054;
 const start = 1;
 const end = 6;
 const random = Math.floor(Math.random() * (end - start + 1)) + start;
-console.log(random);
+// console.log(random);
+// let randomnumber=Math.random();
+// console.log(randomnumber);

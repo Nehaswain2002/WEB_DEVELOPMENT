@@ -6,7 +6,7 @@
 let name; // Decalration  of variable
 name = "NEHA"; // Initialization
 // console.log(name); // undefined
-
+ 
 // Null :
 
 // Null is a primitive data type in JavaScript. It is used to represent the intentional absence of any
@@ -206,7 +206,7 @@ const url = "pramodjena.github.io";
 console.log(url.replace(".", "-")); // pramodjena-github.io
 const email = "pramod@gmail@yahoo@ios.com";
 console.log(email.replace("@", ".")); // pramod.gmail@yahoo@ios.com
-
+ 
 const mail = "pramodjena.com";
 console.log(mail.includes(".com")); // true
 console.log(mail.includes("@yahoo")); // false

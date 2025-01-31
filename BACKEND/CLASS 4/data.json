@@ -1,0 +1,67 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "John",
+        "age": 21
+      },
+      {
+        "id": 2,
+        "name": "Pablo",
+        "age": 22
+      },
+      {
+        "id": 3,
+        "name": "Santro",
+        "age": 23
+      },
+      {
+        "id": 4,
+        "name": "Pramod",
+        "age": 25
+      },
+      {
+        "id": 5,
+        "name": "Neha",
+        "age": 22
+      },
+      {
+        "id": 6,
+        "name": "Soumya",
+        "age": 22
+      },
+      {
+        "id": 7,
+        "name": "Subhasmita",
+        "age": 22
+      },
+      {
+        "id": 8,
+        "name": "Somyashree",
+        "age": 22
+       
+      },
+      {
+        "id": 9,
+        "name": "Arpita",
+        "age": 22
+      }
+    ],
+    "teachers": [
+      {
+        "id": 1,
+        "name": "Maraion",
+        "age": 50
+      },
+      {
+        "id": 2,
+        "name": "Qupet",
+        "age": 40
+      },
+      {
+        "id": 3,
+        "name": "Jhonathan",
+        "age": 60
+      }
+    ]
+  }
